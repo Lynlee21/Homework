@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(0.5turn, #c9ccd5, #e4d8dc, #ffe3e3);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+h2 {
+  font-size: 36px;
+}
+p {
+  font-size: 18px;
+  padding: 18px;
+}
+.container {
+  background: #fdfaf6;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px rgba(145, 134, 134, 0.3);
+  margin: 0 auto;
+  max-width: 50%;
+  padding: 24px;
+  text-align: center;
+}
+.current-date {
+  font-size: 24px;
+}
+.current-conditions,
+.current-temp {
+  font-size: 18px;
+}
+.date,
+.temp {
+  font-size: 18px;
+}
+.card {
+  padding: 20px;
+}
